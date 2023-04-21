@@ -1,3 +1,3 @@
-# Get Started!
+AUTHOR:FreeHTML5.co
 
-Add files and start typing 🎉
+MrSn
