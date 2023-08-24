@@ -147,3 +147,12 @@
 
 
 }());
+
+
+
+
+		const dogumYili = 2007;
+const suAnkiTarih = new Date();
+const suAnkiYil = suAnkiTarih.getFullYear();
+const yas = suAnkiYil - dogumYili;
+document.getElementById("yas").innerHTML = yas;				
