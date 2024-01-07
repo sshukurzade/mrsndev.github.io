@@ -151,7 +151,7 @@
 
 
 
-		const dogumYili = 2007;
+		const dogumYili = 2008;
 const suAnkiTarih = new Date();
 const suAnkiYil = suAnkiTarih.getFullYear();
 const yas = suAnkiYil - dogumYili;
