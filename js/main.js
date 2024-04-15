@@ -156,3 +156,4 @@ const suAnkiTarih = new Date();
 const suAnkiYil = suAnkiTarih.getFullYear();
 const yas = suAnkiYil - dogumYili;
 document.getElementById("yas").innerHTML = yas;				
+document.getElementById("suAnkiYil").innerHTML = suAnkiYil;				
